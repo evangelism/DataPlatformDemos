@@ -1,0 +1,56 @@
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Bot Application1.dll.config
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Bot Application1.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Bot Application1.pdb
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Autofac.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Chronic.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Builder.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Connector.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Newtonsoft.Json.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.AppContext.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Collections.Immutable.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Diagnostics.StackTrace.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.IO.FileSystem.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.IO.FileSystem.Primitives.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Net.Http.Formatting.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Reflection.Metadata.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Web.Http.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Web.Http.WebHost.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Autofac.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Builder.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.Bot.Connector.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\Newtonsoft.Json.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Collections.Immutable.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Net.Http.Formatting.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Reflection.Metadata.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Web.Http.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\System.Web.Http.WebHost.xml
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\BotFormFlow.csprojResolveAssemblyReference.cache
+C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\Bot Application1.dll
+C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\Bot Application1.pdb
