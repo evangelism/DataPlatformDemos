@@ -1,0 +1,9 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.language-zh-hant"
+"ResourceDimensions"		"language-zh-hant"
+
+[Files]
+"C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\obj\x64\Debug\filemap.language-zh-hant.pri"			"resources.pri"
+"C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\obj\x64\Debug\PackageLayout\zh-Hant\System.Spatial.resources.dll"			"zh-Hant\System.Spatial.resources.dll"
+"C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\obj\x64\Debug\PackageLayout\zh-Hant\Microsoft.Data.OData.resources.dll"			"zh-Hant\Microsoft.Data.OData.resources.dll"
+"C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\obj\x64\Debug\PackageLayout\zh-Hant\Microsoft.Data.Edm.resources.dll"			"zh-Hant\Microsoft.Data.Edm.resources.dll"

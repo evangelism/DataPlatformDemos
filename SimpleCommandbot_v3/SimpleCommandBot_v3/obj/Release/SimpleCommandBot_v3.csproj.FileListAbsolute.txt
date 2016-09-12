@@ -36,3 +36,41 @@ C:\Dev\Bots\SimpleCommandBot_v3\SimpleCommandBot_v3\bin\ru\Microsoft.Bot.Builder
 C:\Dev\Bots\SimpleCommandBot_v3\SimpleCommandBot_v3\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
 C:\Dev\Bots\SimpleCommandBot_v3\SimpleCommandBot_v3\obj\Release\Bot Application1.dll
 C:\Dev\Bots\SimpleCommandBot_v3\SimpleCommandBot_v3\obj\Release\Bot Application1.pdb
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Bot Application1.dll.config
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Bot Application1.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Bot Application1.pdb
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Autofac.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Chronic.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Bot.Builder.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Bot.Connector.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Newtonsoft.Json.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Net.Http.Formatting.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Web.Http.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Web.Http.WebHost.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Autofac.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Bot.Builder.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Bot.Connector.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\Newtonsoft.Json.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Net.Http.Formatting.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Web.Http.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\System.Web.Http.WebHost.xml
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\obj\Release\Bot Application1.dll
+C:\Dev\DataPlatformDemos\SimpleCommandbot_v3\SimpleCommandBot_v3\obj\Release\Bot Application1.pdb

@@ -54,3 +54,59 @@ C:\Dev\Bots\BotFormFlow\BotFormFlow\bin\zh-hans\Microsoft.Bot.Builder.resources.
 C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\BotFormFlow.csprojResolveAssemblyReference.cache
 C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\Bot Application1.dll
 C:\Dev\Bots\BotFormFlow\BotFormFlow\obj\Debug\Bot Application1.pdb
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Bot Application1.dll.config
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Bot Application1.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Bot Application1.pdb
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Autofac.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Chronic.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Builder.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Builder.FormFlow.Json.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Connector.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.Scripting.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Newtonsoft.Json.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.AppContext.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Collections.Immutable.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Diagnostics.StackTrace.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.IO.FileSystem.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.IO.FileSystem.Primitives.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Net.Http.Formatting.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Reflection.Metadata.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Web.Http.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Web.Http.WebHost.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Autofac.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Builder.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Builder.FormFlow.Json.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.Bot.Connector.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.CodeAnalysis.Scripting.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\Newtonsoft.Json.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Collections.Immutable.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Net.Http.Formatting.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Reflection.Metadata.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Web.Http.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\System.Web.Http.WebHost.xml
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\obj\Debug\BotFormFlow.csprojResolveAssemblyReference.cache
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\obj\Debug\Bot Application1.dll
+C:\Dev\DataPlatformDemos\BotFormflow\BotFormFlow\obj\Debug\Bot Application1.pdb

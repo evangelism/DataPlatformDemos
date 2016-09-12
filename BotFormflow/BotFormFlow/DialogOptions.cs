@@ -35,7 +35,6 @@ namespace BotFormFlow
 
     {
         [Terms("except", "but", "not", "no", "all", "everything")]
-
         Everything = 1,
 
         Avocado, BananaPeppers, Cucumbers, GreenBellPeppers, Jalapenos,
@@ -62,8 +61,8 @@ namespace BotFormFlow
     public class SandwichOrder
 
     {
-        //[Prompt("What kind of {&} would you like? {||}")]
-        [Prompt("What kind of {&} would you like? {||}", ChoiceFormat = "{1}")]
+        [Prompt("What kind of {&} would you like? {||}")]
+        //[Prompt("What kind of {&} would you like? {||}", ChoiceFormat = "{1}")]
         public DialogOptions? Sandwich;
 
         public LengthOptions? Length;
@@ -76,8 +75,8 @@ namespace BotFormFlow
 
         [Optional]
         public List<SauceOptions> Sauce;
-        [Pattern(@"(\d)?\s*\d{3}(-|\s*)\d{4}")]
 
+        [Pattern(@"(\d)?\s*\d{3}(-|\s*)\d{4}")]
         public string PhoneNumber;
 
         public int DeliveryTime;
@@ -103,27 +102,28 @@ namespace BotFormFlow
                     .Field(nameof(Bread))
                     .Field(nameof(Sauce))
                     .Field(nameof(PhoneNumber))
-                    .Field(nameof(DeliveryTime)) 
-                    //.Field(nameof(Toppings),
-                    //        validate: async (state, value) =>
-                    //        {
-                    //            var values = ((List<object>)value).OfType<ToppingOptions>();
-                    //            var result = new ValidateResult { IsValid = true, Value = values };
-                    //            if (values != null && values.Contains(ToppingOptions.Everything))                                {
-                    //                result.Value = (from ToppingOptions topping in Enum.GetValues(typeof(ToppingOptions))
-                    //                                where topping != ToppingOptions.Everything && !values.Contains(topping)
-                    //                                select topping).ToList();
-                    //            }
-                    //            return result;
-                    //        })
-                    //   .Field(nameof(SandwichOrder.DeliveryTime), "What time do you want your sandwich delivered? {||}")
+                    .Field(nameof(DeliveryTime))
+                    .Field(nameof(Toppings),
+                            validate: async (state, value) =>
+                            {
+                                var values = ((List<object>)value).OfType<ToppingOptions>();
+                                var result = new ValidateResult { IsValid = true, Value = values };
+                                if (values != null && values.Contains(ToppingOptions.Everything))
+                                {
+                                    result.Value = (from ToppingOptions topping in Enum.GetValues(typeof(ToppingOptions))
+                                                    where topping != ToppingOptions.Everything && !values.Contains(topping)
+                                                    select topping).ToList();
+                                }
+                                return result;
+                            })
+                       .Field(nameof(SandwichOrder.DeliveryTime), "What time do you want your sandwich delivered? {||}")
 
-                    //    .Confirm("Do you want to order your {Sandwich} on {Bread} to be sent to {DeliveryTime}?")
-                    //    .Confirm(async (state) =>
-                    //    {
-                    //        var cost = 5.0;
-                    //        return new PromptAttribute($"Total for your sandwich is {cost:C2} is that ok?");
-                    //    })
+                        .Confirm("Do you want to order your {Sandwich} on {Bread} to be sent to {DeliveryTime}?")
+                        .Confirm(async (state) =>
+                        {
+                            var cost = 5.0;
+                            return new PromptAttribute($"Total for your sandwich is {cost:C2} is that ok?");
+                        })
                         .AddRemainingFields()
                         .Message("Thanks for ordering a sandwich!")
                         .OnCompletion(processOrder)

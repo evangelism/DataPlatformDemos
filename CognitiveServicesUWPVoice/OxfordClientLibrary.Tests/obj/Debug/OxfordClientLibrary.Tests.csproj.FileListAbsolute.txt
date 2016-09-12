@@ -1,0 +1,14 @@
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\OxfordClientLibrary.Tests.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\OxfordClientLibrary.Tests.pdb
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\ClientLibrary.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\ClientLibrary.pdb
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\obj\Debug\OxfordClientLibrary.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\obj\Debug\OxfordClientLibrary.Tests.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary.Tests\obj\Debug\OxfordClientLibrary.Tests.pdb

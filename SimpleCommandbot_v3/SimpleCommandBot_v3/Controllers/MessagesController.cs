@@ -12,7 +12,7 @@ using System.Text;
 
 namespace SimpleCommandBot_v3
 {
-    [BotAuthentication]
+    //[BotAuthentication]
     public class MessagesController : ApiController
     {
         /// <summary>

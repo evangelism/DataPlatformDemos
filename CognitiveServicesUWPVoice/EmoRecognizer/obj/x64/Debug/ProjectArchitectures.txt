@@ -1,0 +1,2 @@
+C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\EmoRecognizer.csproj;x64
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\OxfordClientLibrary.csproj;neutral

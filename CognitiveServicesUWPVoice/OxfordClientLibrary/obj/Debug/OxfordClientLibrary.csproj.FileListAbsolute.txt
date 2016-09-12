@@ -1,0 +1,7 @@
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\bin\Debug\ClientLibrary.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\bin\Debug\ClientLibrary.pdb
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\obj\Debug\ClientLibrary.dll
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\obj\Debug\ClientLibrary.pdb
+C:\Dev\DXHackathons\DXHackathon2016\OxfordClientLibrary\obj\Debug\OxfordClientLibrary.csprojResolveAssemblyReference.cache

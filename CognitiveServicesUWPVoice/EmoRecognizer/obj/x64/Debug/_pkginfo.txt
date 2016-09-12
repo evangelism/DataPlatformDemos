@@ -1,0 +1,1 @@
+C:\Dev\DXHackathons\DXHackathon2016\Build\EmoRecognizer_1.1.24.0_Debug_Test\EmoRecognizer_1.1.24.0_x86_x64_Debug.appxbundle

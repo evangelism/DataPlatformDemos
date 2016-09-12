@@ -1,0 +1,3 @@
+MainPackage=C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\bin\x64\Debug\EmoRecognizer_1.1.24.0_x64_Debug.appx
+SymbolPackage=C:\Dev\DXHackathons\DXHackathon2016\Build\EmoRecognizer_1.1.24.0_Debug_Test\EmoRecognizer_1.1.24.0_x64_Debug.appxsym
+ResourcePack=C:\Dev\DXHackathons\DXHackathon2016\EmoRecognizer\bin\x64\Debug\EmoRecognizer_1.1.24.0_language-ru.appx

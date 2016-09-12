@@ -13,7 +13,7 @@ using Microsoft.Bot.Builder.FormFlow;
 
 namespace BotFormFlow
 {
-    [BotAuthentication]
+    //[BotAuthentication]
     public class MessagesController : ApiController
     {
         /// <summary>
